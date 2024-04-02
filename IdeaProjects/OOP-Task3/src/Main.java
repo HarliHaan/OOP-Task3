@@ -9,6 +9,13 @@
         Shape circle = new Circle("blue", true, 20);
         System.out.println(circle);
 
+        Rectangle rectangle = new Rectangle("yellow", true, 20, 30);
+        System.out.println(rectangle);
+
+
+
+
+
 
 
 
